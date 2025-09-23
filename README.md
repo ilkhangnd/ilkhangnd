@@ -21,13 +21,13 @@ Whether it's writing secure code, organizing meaningful events, or crafting comp
   <a href="mailto:khangnd@suctremmt.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://www.facebook.com/dkang.text" target="_blank">
+  <a href="https://www.facebook.com/ikhangnd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
-  <a href="https://www.instagram.com/dkang.text" target="_blank">
+  <a href="https://www.instagram.com/ikhangnd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://twitter.com/your.twitter.username" target="_blank">
+  <a href="https://twitter.com/ikhangnd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
   <a href="https://www.youtube.com/@dkangtext" target="_blank">
@@ -83,10 +83,10 @@ Whether it's writing secure code, organizing meaningful events, or crafting comp
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=dkangtext&show_icons=true&theme=default&bg_color=FFFFFF&text_color=1E3A8A&title_color=1E3A8A&icon_color=1E3A8A&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ikhangnd&show_icons=true&theme=default&bg_color=FFFFFF&text_color=1E3A8A&title_color=1E3A8A&icon_color=1E3A8A&hide_border=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkangtext&layout=compact&theme=default&bg_color=FFFFFF&text_color=1E3A8A&title_color=1E3A8A&hide_border=true" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikhangnd&layout=compact&theme=default&bg_color=FFFFFF&text_color=1E3A8A&title_color=1E3A8A&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -95,7 +95,7 @@ Whether it's writing secure code, organizing meaningful events, or crafting comp
 
 ## 📈 GitHub Contributions
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dkangtext&theme=github-light&hide_border=true&area=true&color=1E3A8A&line=1E3A8A&point=1E3A8A" alt="Contributions Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ikhangnd&theme=github-light&hide_border=true&area=true&color=1E3A8A&line=1E3A8A&point=1E3A8A" alt="Contributions Graph" />
 
 ![Thanks Cover](/thanks.png)
 
