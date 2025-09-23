@@ -83,10 +83,10 @@ Whether it's writing secure code, organizing meaningful events, or crafting comp
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ikhangnd&show_icons=true&theme=default&bg_color=FFFFFF&text_color=1E3A8A&title_color=1E3A8A&icon_color=1E3A8A&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ilkhangnd&show_icons=true&theme=default&bg_color=FFFFFF&text_color=1E3A8A&title_color=1E3A8A&icon_color=1E3A8A&hide_border=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikhangnd&layout=compact&theme=default&bg_color=FFFFFF&text_color=1E3A8A&title_color=1E3A8A&hide_border=true" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilkhangnd&layout=compact&theme=default&bg_color=FFFFFF&text_color=1E3A8A&title_color=1E3A8A&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -95,7 +95,7 @@ Whether it's writing secure code, organizing meaningful events, or crafting comp
 
 ## 📈 GitHub Contributions
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ikhangnd&theme=github-light&hide_border=true&area=true&color=1E3A8A&line=1E3A8A&point=1E3A8A" alt="Contributions Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ilkhangnd&theme=github-light&hide_border=true&area=true&color=1E3A8A&line=1E3A8A&point=1E3A8A" alt="Contributions Graph" />
 
 ![Thanks Cover](/thanks.png)
 
