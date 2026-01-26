@@ -41,7 +41,7 @@ Whether it's writing secure code, organizing meaningful events, or crafting comp
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,react,js,py,html,css,dotnet,git,figma,docker,mongodb,nextjs,linux,latex,kaggle&perline=9" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,html,css,solidity,pytorch,sklearn,react,nextjs,nodejs,dotnet,mongodb,docker,git,linux,figma,latex,arduino,kaggle&theme=light&perline=11" />
 </div>
 
 ---
