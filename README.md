@@ -63,10 +63,13 @@ Whether it's writing secure code, organizing meaningful events, or crafting comp
 
 ## 📈 GitHub Contributions
 
-<img
-  src="https://contribkit.app/user/ilkhangnd.svg?palette=github&shape=square&background=transparent"
-  alt="GitHub Contributions"
-/>
+<p align="center">
+  <img
+    src="https://contribkit.app/user/ilkhangnd.svg?palette=github&shape=square&background=white"
+    alt="GitHub Contributions"
+    width="100%"
+  />
+</p>
 
 ![Thanks Cover](/thanks.png)
 
