@@ -63,7 +63,10 @@ Whether it's writing secure code, organizing meaningful events, or crafting comp
 
 ## 📈 GitHub Contributions
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ilkhangnd&theme=github-light&hide_border=true&area=true&color=1E3A8A&line=1E3A8A&point=1E3A8A" alt="Contributions Graph" />
+<img
+  src="https://contribkit.app/user/ilkhangnd.svg?palette=github&shape=square&background=transparent"
+  alt="GitHub Contributions"
+/>
 
 ![Thanks Cover](/thanks.png)
 
