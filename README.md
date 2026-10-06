@@ -65,7 +65,7 @@ Whether it's writing secure code, organizing meaningful events, or crafting comp
 
 <p align="center">
   <img
-    src="https://contribkit.app/user/ilkhangnd.svg?palette=github&shape=square&background=white"
+    src="https://contribkit.app/user/ilkhangnd.svg?palette=github-light&shape=square&background=white"
     alt="GitHub Contributions"
     width="100%"
   />
